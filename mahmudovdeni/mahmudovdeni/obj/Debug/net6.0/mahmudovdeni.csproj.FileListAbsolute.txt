@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\bin\Debug\net6.0\mahmudovdeni.exe
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\bin\Debug\net6.0\mahmudovdeni.deps.json
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\bin\Debug\net6.0\mahmudovdeni.runtimeconfig.json
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\bin\Debug\net6.0\mahmudovdeni.dll
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\bin\Debug\net6.0\mahmudovdeni.pdb
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\obj\Debug\net6.0\mahmudovdeni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\obj\Debug\net6.0\mahmudovdeni.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\obj\Debug\net6.0\mahmudovdeni.AssemblyInfo.cs
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\obj\Debug\net6.0\mahmudovdeni.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\obj\Debug\net6.0\mahmudovdeni.dll
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\obj\Debug\net6.0\refint\mahmudovdeni.dll
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\obj\Debug\net6.0\mahmudovdeni.pdb
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\obj\Debug\net6.0\mahmudovdeni.genruntimeconfig.cache
+C:\Users\user\Desktop\mahmudovDeni\mahmudovdeni\mahmudovdeni\obj\Debug\net6.0\ref\mahmudovdeni.dll
